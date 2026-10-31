@@ -1,0 +1,16 @@
+{
+  "name": "Mathel",
+  "short_name": "Mathel",
+  "description": "想起・分散・交互練習で、自力で方針を立てて解ける力をつける大学数学の演習アプリ（数学検定1級・統計検定対応）",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f4ee",
+  "theme_color": "#2a1c5e",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
