@@ -1357,7 +1357,7 @@ function renderSettings() {
   const gen = META.generated ? new Date(META.generated) : null;
   view.innerHTML = `
     <div class="fade-in">
-      <div class="kicker">Mathel v0.1（エンジン v${VERSION}）</div>
+      <div class="kicker">Mathel v0.2（エンジン v${VERSION}）</div>
       <h1>設定</h1>
       <h2>問題データ</h2>
       <div class="panel">
